@@ -1,15 +1,11 @@
-# weather-App
-
-![Uploading Screenshot from 2023-08-18 18-31-56.png…]()
-
 # WeatherApp
 
 A simple weather app that allows users to check the weather for different cities.
 
-![Uploading Screenshot from 2023-08-18 18-31-56.png…]()
+![Screenshot from 2023-08-18 18-31-40](https://github.com/devanshi813/weather-App/assets/75596637/b459d487-3a58-4a93-946d-82a437f57ce1)
 *Weather for Pune*
 
-![Uploading Screenshot from 2023-08-18 18-31-40.png…]()
+![Screenshot from 2023-08-18 18-31-56](https://github.com/devanshi813/weather-App/assets/75596637/8b3797e1-18e7-4edc-badc-44ebc5f6e832)
 *Weather for Delhi*
 
 ## Description
@@ -19,10 +15,10 @@ WeatherApp is a basic web application that utilizes the OpenWeatherMap API to fe
 ## Screenshots
 
 ### Pune Weather
-![Uploading Screenshot from 2023-08-18 18-31-56.png…]()
+![Screenshot from 2023-08-18 18-31-40](https://github.com/devanshi813/weather-App/assets/75596637/b459d487-3a58-4a93-946d-82a437f57ce1)
 
 ### Delhi Weather
-![Uploading Screenshot from 2023-08-18 18-31-40.png…]()
+![Screenshot from 2023-08-18 18-31-56](https://github.com/devanshi813/weather-App/assets/75596637/8b3797e1-18e7-4edc-badc-44ebc5f6e832)
 
 ## Features
 
